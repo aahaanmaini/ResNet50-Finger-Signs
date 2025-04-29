@@ -30,9 +30,4 @@ The goal of this project was to understand residual learning and deep network ar
 
 ---
 
-## License
-This project is open-source under the [MIT License](LICENSE).
-
----
-
 Created to deepen understanding of deep residual networks and image classification.
